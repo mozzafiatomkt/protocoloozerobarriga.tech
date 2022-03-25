@@ -48,6 +48,11 @@ H3.aviso span {
   margin-bottom: 0px;
 }
 
+.wistia_responsive_padding  {
+  border: solid;
+  border-color: #87C803C2;
+  box-shadow: 0px 0px 33px -1px #adff06;
+}
 
 @media (max-width: 768px) {
   h3.aviso {
